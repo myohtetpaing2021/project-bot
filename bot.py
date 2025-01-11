@@ -1,7 +1,8 @@
 import logging
 import random
 import requests
-from telegram import Update
+from telegram 
+import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
 
 # Telegram Bot Token
