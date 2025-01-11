@@ -5,7 +5,7 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
 
 # Telegram Bot Token
-TELEGRAM_BOT_TOKEN = "7921333019:AAH4qHxoZkbVtlMaXbHEOKHZ6ZXe-D0AEHA"
+TELEGRAM_BOT_TOKEN = "7799384444:AAHyJovEz1bPhXqzTMtMK8eOAkWLrATpsw0"
 
 # Enable logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
